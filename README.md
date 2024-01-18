@@ -1,2 +1,2 @@
 This is my team project and I am the leader.
-Hello my friends!!
+Hello my friends!
