@@ -1,1 +1,2 @@
-This is my team project and i am the leader.
+This is my team project and I am the leader.
+Hello!!
